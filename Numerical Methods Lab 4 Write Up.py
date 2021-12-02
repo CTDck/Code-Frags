@@ -1,3 +1,5 @@
+# This was intended to be ran in a jupyter notebook but... filesize limitations instead mean that this will have to suffice
+
 #!/usr/bin/env python
 # coding: utf-8
 
